@@ -11,13 +11,6 @@
 				"type": "constructor"
 			},
 			{
-				"inputs": [],
-				"name": "addCount",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
 				"inputs": [
 					{
 						"internalType": "address",
@@ -26,19 +19,6 @@
 					}
 				],
 				"name": "balances",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "count",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -78,11 +58,11 @@
 	},
 	"sources": {
 		"03_contracts/hello.sol": {
-			"keccak256": "0x3e5d5bc37d822f693327535b98cba44b4f465f82fdccd0fdaf0187b04552154e",
+			"keccak256": "0x9407dfc7bc8ee0c17a2d3c6c0a06557260c1da5852aa5506e906ee11424b4c02",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cd33fd43f5a4992a2ad7436b40458b08b86a62168e69d87d96cca47d2da303cc",
-				"dweb:/ipfs/QmYkpXZUXiGdx5eXeQdghFhJz9n3QhRGrTaomMzkdyduMf"
+				"bzz-raw://d42b4c2bf5e5015ab1fa2c3bedc30904d3f84d9bdfc9f2de86469f21384b9400",
+				"dweb:/ipfs/QmWf13e5XMPw3SYD3rgzMLxTXGKQ8E5G1Wy1VjRRuX46LX"
 			]
 		}
 	},
